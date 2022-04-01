@@ -7,4 +7,4 @@ hello git
 hello spark
 hello spark
 hello spark
-hello spark
+hello spark master
